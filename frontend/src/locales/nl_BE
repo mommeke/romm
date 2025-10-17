@@ -1,0 +1,21 @@
+{
+  "add-collection": "Collectie toevoegen",
+  "create-collection": "Collectie aanmaken",
+  "create-smart-collection": "Slimme collectie aanmaken",
+  "current-filters": "Huidige filters",
+  "danger-zone": "Gevarenzone",
+  "delete-collection": "Collectie verwijderen",
+  "description": "Beschrijving",
+  "edit-collection": "Collectie bewerken",
+  "name": "Naam",
+  "owner": "Eigenaar",
+  "private": "Privé",
+  "private-desc": "Privé (enkel zichtbaar voor mij)",
+  "public": "Publiek",
+  "public-desc": "Publiek (zichtbaar voor iedereen)",
+  "removing-collection-1": "Collectie verwijderen",
+  "removing-collection-2": "uit RomM. Bent u zeker?",
+  "removing-smart-collection-1": "Slimme collectie verwijderen",
+  "removing-smart-collection-2": "uit RomM. Bent u zeker?",
+  "search-collection": "Collection zoeken"
+}
