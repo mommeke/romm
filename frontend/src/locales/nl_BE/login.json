@@ -1,0 +1,16 @@
+{
+  "login": "Login",
+  "login-oidc": "Login met {oidc}",
+  "or": "of",
+  "password": "Wachtwoord",
+  "username": "Gebruikersnaam",
+  "forgot-password": "Wachtwoord vergeten?",
+  "send-reset-link": "Verstuur reset link",
+  "reset-sent": "Reset link verstuurd. Contacteer je beheerder.",
+  "new-password": "Nieuw wachtwoord",
+  "confirm-new-password": "Bevestig nieuw wachtwoord",
+  "reset-password": "Reset wachtwoord",
+  "back-to-login": "Terug naar login",
+  "setup-wizard": "Installatiehulp",
+  "register": "Registreer"
+}
