@@ -1,0 +1,20 @@
+{
+  "back-to-gallery": "Terug naar galerij",
+  "back-to-game-details": "Terug naar speldetails",
+  "clear-cache": "Wis EmulatorJS Cache",
+  "clear-cache-description": "Saves of states opgeslagen op de server worden niet geraakt.",
+  "clear-cache-title": "Bent u zeker dat je de EmulatorJS cache wil wissen?",
+  "clear-cache-warning": "Dit zal alle saves en states opgeslagen in je browser verwijderen.",
+  "full-screen": "Volledig scherm",
+  "play": "Spelen",
+  "quit": "Verlaten",
+  "save-and-quit": "Bewaren en verlaten",
+  "select-save": "Selecteer save",
+  "change-save": "Verander save",
+  "deselect-save": "Deselecteer save",
+  "select-state": "Selecteer state",
+  "change-state": "Verander state",
+  "deselect-state": "Deselecteer state",
+  "background-color": "Achtergrondkleur",
+  "select-background-color": "Selecteer achtergrondkleur"
+}
